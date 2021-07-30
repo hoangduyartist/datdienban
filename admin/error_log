@@ -1,0 +1,5 @@
+[28-Jul-2021 09:35:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function template_edit() in /home/datdienthg/domains/datdienban.com/public_html/admin/prog/postcat_list.php on line 303
+[28-Jul-2021 09:35:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function template_edit() in /home/datdienthg/domains/datdienban.com/public_html/admin/prog/postcat_list.php on line 303
+[28-Jul-2021 09:52:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function template_edit() in /home/datdienthg/domains/datdienban.com/public_html/admin/prog/postcat_list.php on line 303
+[28-Jul-2021 09:52:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function template_edit() in /home/datdienthg/domains/datdienban.com/public_html/admin/prog/postcat_edit.php on line 142
+[28-Jul-2021 09:52:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function template_edit() in /home/datdienthg/domains/datdienban.com/public_html/admin/prog/postcat_list.php on line 303

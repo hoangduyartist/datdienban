@@ -1,0 +1,37 @@
+.mgt35 {
+  margin-top: 35px;
+}
+.pb25 {
+  padding-bottom: 25px;
+}
+.pt10 {
+  padding-top: 10px;
+}
+
+.pond-wrapper {
+  background: #fff;
+  padding: 10px 10px 5px 10px;
+  border-radius: 2px;
+  margin-bottom: 10px;
+  border: 1px solid #dee2e6
+}
+
+.btn-block {
+  margin: 0 -5px;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.btn-block .btn-common {
+  padding: 0 5px;
+  margin-bottom: 5px;
+}
+
+.table-responsive {
+  overflow: hidden;
+  overflow-x: auto;
+}
+.table-responsive table {
+  margin-bottom: 0px;
+}
